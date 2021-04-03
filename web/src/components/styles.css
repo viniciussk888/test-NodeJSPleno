@@ -1,0 +1,17 @@
+.cluster-marker {
+    color: #ffffff;
+    background: #29B6D1; 
+    border-radius: 8%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .point-marker {
+    background: none;
+    border: none;
+  }
+  .point-marker img {
+    width: 30px;
+  }
+  
