@@ -1,8 +1,13 @@
+![landing](https://user-images.githubusercontent.com/30902898/113479328-dd937100-9464-11eb-964d-59fa78263936.png)
+
+![map](https://user-images.githubusercontent.com/30902898/113479307-ae7cff80-9464-11eb-93ce-17fdf934549d.png)
+
+
 Teste para vaga Full Pleno - Contele
 
-Este sistema foi desenvolvido para plotar 50.000 coordenadas no mapa e agrupar de forma anão poluir a visualização do mapa.
+Este sistema foi desenvolvido para plotar 50.000 coordenadas no mapa e agrupar de forma a não poluir a visualização do mapa.
 
-Possui o backend feito em AdonisJS um framework NodeJs para processamento e resposta do JSON contendo todas as 50.000 coordenadas.
+Possui o backend feito em AdonisJS, um framework NodeJs, utilizado aqui para processamento e resposta do JSON contendo todas as 50.000 coordenadas.
 
 Instalação:
 
@@ -18,6 +23,6 @@ Instalação:
 
 SOBRE O BACKEND:
    
-   O AdonisJS é um framework completo possuindo suporte nativo token JWT, WebSocket, migrations e etc. Nesse teste ele foi utilizado apenas com uma rota /points e um controller para fazer a leitura do arquivo e retorna como resposta o JSON atraves do endpoint solicitado via GET.
+   O AdonisJS é um framework completo possuindo suporte nativo a token JWT, WebSocket, migrations e etc. Nesse teste ele foi utilizado apenas com uma rota /points e um controller para fazer a leitura do arquivo e retorna como resposta o JSON atraves do endpoint solicitado via GET.
 
 OBRIGADO PELA OPORTUNIDADE :)
