@@ -97,7 +97,7 @@ export default function App() {
 
             return (
               <Marker
-                key={`crime-${cluster.properties.crimeId}`}
+                key={cluster.properties.cluster_id} 
                 lat={latitude}
                 lng={longitude}
               >
